@@ -1,65 +1,59 @@
-# 👋 Hi, I'm Rajesh Kumar Reddy Avula
+## Hi there 👋
 
-🎓 **MS in Computer Science** @ Indiana University Bloomington (GPA: 3.9/4.0, May 2025)  
-💻 **Software Engineer | Full-Stack Developer | Data Enthusiast**  
-🌍 Passionate about building scalable applications, intelligent dashboards, and ML pipelines.
-
----
-
-## 🚀 About Me
-
-- 💼 Experience at **Oracle**, **Heartland Community Network**, and **Evertz** across **frontend, backend, and data engineering**.  
-- 🌐 Skilled in **React, Angular, Node.js, Spring Boot, Redux, MongoDB, Power BI, SQL/PLSQL**.  
-- ⚡ Built and deployed 10+ **enterprise dashboards** improving decision-making speed by 40%.  
-- 🔬 Academic & side projects in **ML, NLP, and full-stack apps**, including Reddit NLP analysis and e-commerce platforms.  
-- ☁️ Certifications: **AWS Developer Associate**, **Oracle Java SE 8**, **Oracle SQL Certified**.  
-- 🛠️ Always curious about **system design, ML workflows, and cloud-native applications**.
+I’m **Rajesh Kumar Reddy Avula**, a **Software Engineer** and **MS in Computer Science student @ Indiana University Bloomington** (GPA: 3.9/4.0, graduating May 2025).  
+I love building scalable software, crafting intuitive UIs, and exploring how **data + ML** can solve real-world problems.
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages:** Java, Python, C/C++, SQL, JavaScript, Kotlin, Swift, HTML/CSS, GraphQL  
-**Frameworks & Libraries:** React, Angular, Redux Toolkit, Spring Boot, Node.js, Vue.js, JUnit, Material UI  
-**Databases & Tools:** MongoDB, PostgreSQL, Power BI, Docker, Git, GCP, Netlify, Postman, JIRA  
-**Certifications:** AWS Developer Associate | Oracle Java SE 8 | Oracle SQL | Oracle Responsys
+### 🔭 I’m currently working on
+- Building **enterprise dashboards** at Heartland Community Network that improve client decision-making and efficiency.  
+- Exploring **ML/NLP pipelines** for large-scale text classification and analysis.  
+- Enhancing my portfolio with **full-stack projects** powered by React, Spring Boot, MongoDB, and cloud-native deployments.
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 [Reddit Comments to Post Relevance Analysis](#)
-*NLP, Python, LDA, LSTM, GPT, BERT*  
-- Preprocessed **500K+ Reddit records**, eliminating 95% noise.  
-- Built ML pipeline with **TF-IDF + deep learning models** for comment-post relevance scoring.  
-- Benchmarked model performance with concurrency optimizations.
-
-### 🔹 [E-commerce Clothing Website (Vybr)](#)
-*React, Redux, MongoDB, Netlify, Stripe*  
-- Built a **scalable full-stack app** with **Redux Toolkit state management**.  
-- Integrated secure **third-party authentication** and responsive design.  
-- Optimized performance with **Webpack & Babel** for smooth cross-device experience.
-
-### 🔹 [Apartments Management System (Rentr)](#)
-*React, AWS Amplify, TypeScript, Microservices*  
-- Created a **real-time rental platform** handling 150+ listings.  
-- Developed **15+ RESTful microservices** with 90%+ unit test coverage.  
-- Strengthened production reliability using **TypeScript** for type-safe components.
+### 🌱 I’m currently learning
+- Advanced **System Design** concepts (scalability, distributed systems, caching, rate-limiting).  
+- **Cloud-native deployments** on AWS/GCP.  
+- Improving my **TypeScript + testing (JUnit, Jest, Vitest)** for production-grade code.
 
 ---
 
-## 📊 GitHub Stats
+### 👯 I’m looking to collaborate on
+- **Open-source full-stack projects** with React/Node.js or Spring Boot.  
+- **Data visualization and analytics dashboards** that make insights accessible.  
+- **ML applications** combining NLP + deep learning models with real-world datasets.
 
+---
+
+### 💬 Ask me about
+- Full-stack development (**React, Angular, Node.js, Spring Boot, Redux Toolkit, MongoDB, SQL/PLSQL**)  
+- Building scalable, reusable **UI components**  
+- **APIs, microservices, and system design fundamentals**  
+- My experience at **Oracle, Evertz, and Heartland Community Network**
+
+---
+
+### 📌 Featured Projects
+- 📝 **[Reddit NLP Analysis](#)** – ML pipeline (TF-IDF, LSTM, GPT, BERT) for Reddit comment–post relevance scoring on 500K+ records.  
+- 🛍 **[E-commerce Clothing Website (Vybr)](#)** – Scalable React + Redux app with Stripe integration and mobile-first responsive design.  
+- 🏘 **[Apartments Management System (Rentr)](#)** – Real-time rental management system with TypeScript + AWS Amplify + 15+ RESTful microservices.  
+
+---
+
+### 📫 How to reach me
+- 💼 [LinkedIn](https://www.linkedin.com/in/rajeshkumar112k)  
+- 📧 avula.rajesh.kumar.reddy@gmail.com  
+- 🌐 [GitHub](https://github.com/Rajesh112k)
+
+---
+
+### ⚡ Fun fact
+Outside of coding, I enjoy exploring **UI/UX design trends**, experimenting with **data visualizations**, and occasionally diving into **new languages and frameworks** just for fun 🚀.
+
+---
+
+### 📊 GitHub Stats
 ![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajesh112k&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh112k&layout=compact&theme=radical)
 
----
-
-## 📫 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/rajeshkumar112k)  
-- 📧 avula.rajesh.kumar.reddy@gmail.com  
-- 🌐 [Portfolio / Blog (coming soon)](#)
-
----
-⭐️ *Open to collaborating on innovative full-stack projects, ML applications, and cloud solutions.*
