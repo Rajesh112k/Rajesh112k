@@ -47,37 +47,48 @@ I’m a **Full-Stack Software Engineer** with experience at **Oracle**, **Heartl
 
 ### 💻 Languages  
 <p align="center">
-  <a href="https://github.com/Rajesh112k?tab=repositories&q=java"><img src="https://skillicons.dev/icons?i=java" /></a>
-  <a href="https://github.com/Rajesh112k?tab=repositories&q=python"><img src="https://skillicons.dev/icons?i=python" /></a>
-  <a href="https://github.com/Rajesh112k?tab=repositories&q=cpp"><img src="https://skillicons.dev/icons?i=cpp" /></a>
-  <a href="https://github.com/Rajesh112k?tab=repositories&q=javascript"><img src="https://skillicons.dev/icons?i=javascript" /></a>
-  <a href="https://github.com/Rajesh112k?tab=repositories&q=typescript"><img src="https://skillicons.dev/icons?i=typescript" /></a>
+  <img src="https://skillicons.dev/icons?i=java" title="Java – Built REST APIs and microservices at Oracle" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python – Used for ML/NLP projects like Reddit relevance analysis" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++ – Strong foundation in algorithms and system-level programming" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript – Core for React, Angular, and full-stack apps" />
+  <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript – Built type-safe React & AWS Amplify rental platform" />
+  <img src="https://skillicons.dev/icons?i=swift" title="Swift – Experience with mobile app prototyping" />
+  <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin – Worked on Android development projects" />
+  <img src="https://skillicons.dev/icons?i=graphql" title="GraphQL – Familiar with API queries in academic projects" />
 </p>  
 
 ### 🖼️ Frameworks & Libraries  
 <p align="center">
-  <a href="https://github.com/Rajesh112k?tab=repositories&q=react"><img src="https://skillicons.dev/icons?i=react" /></a>
-  <a href="https://github.com/Rajesh112k?tab=repositories&q=angular"><img src="https://skillicons.dev/icons?i=angular" /></a>
-  <a href="https://github.com/Rajesh112k?tab=repositories&q=node"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
-  <a href="https://github.com/Rajesh112k?tab=repositories&q=spring"><img src="https://skillicons.dev/icons?i=spring" /></a>
-  <a href="https://github.com/Rajesh112k?tab=repositories&q=redux"><img src="https://skillicons.dev/icons?i=redux" /></a>
+  <img src="https://skillicons.dev/icons?i=react" title="React – Developed enterprise dashboards and MERN apps" />
+  <img src="https://skillicons.dev/icons?i=angular" title="Angular – Built high-traffic apps at Oracle" />
+  <img src="https://skillicons.dev/icons?i=redux" title="Redux – State management for MERN e-commerce platform" />
+  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot – Backend services with REST APIs" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js – Built scalable backend services & APIs" />
+  <img src="https://skillicons.dev/icons?i=vue" title="Vue.js – Developed modular UI at Evertz" />
+  <img src="https://skillicons.dev/icons?i=materialui" title="Material UI – Styled responsive dashboards" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap – Built mobile-first web apps" />
 </p>  
 
 ### 🗄️ Databases & Cloud  
 <p align="center">
-  <a href="https://github.com/Rajesh112k?tab=repositories&q=mongodb"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
-  <a href="https://github.com/Rajesh112k?tab=repositories&q=postgresql"><img src="https://skillicons.dev/icons?i=postgresql" /></a>
-  <a href="https://github.com/Rajesh112k?tab=repositories&q=oracle"><img src="https://skillicons.dev/icons?i=oracle" /></a>
-  <a href="https://github.com/Rajesh112k?tab=repositories&q=aws"><img src="https://skillicons.dev/icons?i=aws" /></a>
-  <a href="https://github.com/Rajesh112k?tab=repositories&q=docker"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB – Used in MERN stack and microservices projects" />
+  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL – Used for academic and data projects" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL – Designed relational schemas in early projects" />
+  <img src="https://skillicons.dev/icons?i=oracle" title="Oracle DB – Wrote 150+ stored procedures at Oracle" />
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS – Deployed apps with Amplify, EC2, S3" />
+  <img src="https://skillicons.dev/icons?i=gcp" title="GCP – Used for cloud-hosted ML pipelines" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker – Containerized full-stack applications" />
 </p>  
 
 ### 🛠️ Tools & Platforms  
 <p align="center">
-  <a href="https://github.com/Rajesh112k?tab=repositories&q=git"><img src="https://skillicons.dev/icons?i=git" /></a>
-  <a href="https://github.com/Rajesh112k?tab=repositories&q=jira"><img src="https://skillicons.dev/icons?i=jira" /></a>
-  <a href="https://github.com/Rajesh112k?tab=repositories&q=postman"><img src="https://skillicons.dev/icons?i=postman" /></a>
-  <a href="https://github.com/Rajesh112k?tab=repositories&q=vscode"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+  <img src="https://skillicons.dev/icons?i=git" title="Git – Daily use for version control & collaboration" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub – Open-source contributions (HGN, MERN apps)" />
+  <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab – CI/CD pipelines and repo management" />
+  <img src="https://skillicons.dev/icons?i=jira" title="JIRA – Agile workflow management" />
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman – API testing & documentation" />
+  <img src="https://skillicons.dev/icons?i=netlify" title="Netlify – Deployment of frontend projects" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code – Primary IDE for development" />
 </p>  
 
 ---
