@@ -26,20 +26,21 @@ I’m a **Full-Stack Software Engineer** with experience at **Oracle**, **Heartl
 *NLP, Python, LDA, LSTM, GPT, BERT*  
 - Processed **500K+ Reddit records** with 95% noise reduction.  
 - Built ML pipeline using **TF-IDF + deep learning models**.  
-- Benchmarked performance with concurrency optimizations.  
+- Benchmarked performance with concurrency optimizations.
+- [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajesh112k/Reddit-Comments-to-Post-Relevance-Analysis)  
 
 🔹 **[E-commerce Platform (Vybr)](#)**  
 *React, Redux, MongoDB, Stripe, Netlify*  
 - Full-stack MERN app with **secure Stripe payments** and Redux Toolkit.  
 - Optimized builds with **Webpack & Babel** for cross-device performance.  
-[![Live Demo](https://img.shields.io/badge/Demo-000?style=for-the-badge&logo=vercel&logoColor=white)](#)  
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)  
+- [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajesh112k/Vybr)  
 
 🔹 **[Apartments Management System (Rentr)](#)**  
 *React, AWS Amplify, TypeScript, Microservices*  
 - Real-time rental platform managing **150+ listings**.  
 - Developed **15+ RESTful microservices** with 90%+ test coverage.  
-- Improved reliability with **TypeScript type-safety**.  
+- Improved reliability with **TypeScript type-safety**.
+- [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajesh112k/Rentr)   
 
 ---
 
