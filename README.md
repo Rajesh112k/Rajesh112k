@@ -45,42 +45,22 @@ I’m a **Full-Stack Software Engineer** with experience at **Oracle**, **Heartl
 
 ## ⚡ Tech Stack  
 
-<style>
-.skill-icon {
-  display: inline-block;
-  margin: 8px;
-  transition: transform 0.3s, background-color 0.3s;
-  padding: 10px;
-  border-radius: 12px;
-}
-
-.skill-icon:hover {
-  transform: scale(1.2);
-  background-color: #f0f0f0;
-}
-
-.skill-icon img {
-  height: 48px;
-  width: 48px;
-}
-</style>
-
 ### 💻 Languages  
 <p align="center">
-  <span class="skill-icon" title="Java – Built REST APIs and microservices at Oracle">
-    <img src="https://skillicons.dev/icons?i=java"/>
+  <span style="padding:10px; display:inline-block; transition:transform 0.2s; border-radius:12px;" title="Java – Built REST APIs and microservices at Oracle">
+    <img src="https://skillicons.dev/icons?i=java" height="50"/>
   </span>
-  <span class="skill-icon" title="Python – Used for ML/NLP projects like Reddit relevance analysis">
-    <img src="https://skillicons.dev/icons?i=python"/>
+  <span style="padding:10px; display:inline-block; transition:transform 0.2s; border-radius:12px;" title="Python – Used for ML/NLP projects like Reddit relevance analysis">
+    <img src="https://skillicons.dev/icons?i=python" height="50"/>
   </span>
-  <span class="skill-icon" title="C++ – Strong foundation in algorithms and system-level programming">
-    <img src="https://skillicons.dev/icons?i=cpp"/>
+  <span style="padding:10px; display:inline-block; transition:transform 0.2s; border-radius:12px;" title="C++ – Strong foundation in algorithms and system-level programming">
+    <img src="https://skillicons.dev/icons?i=cpp" height="50"/>
   </span>
-  <span class="skill-icon" title="JavaScript – Core for React, Angular, and full-stack apps">
-    <img src="https://skillicons.dev/icons?i=js"/>
+  <span style="padding:10px; display:inline-block; transition:transform 0.2s; border-radius:12px;" title="JavaScript – Core for React, Angular, and full-stack apps">
+    <img src="https://skillicons.dev/icons?i=js" height="50"/>
   </span>
-  <span class="skill-icon" title="TypeScript – Built type-safe React & AWS Amplify rental platform">
-    <img src="https://skillicons.dev/icons?i=typescript"/>
+  <span style="padding:10px; display:inline-block; transition:transform 0.2s; border-radius:12px;" title="TypeScript – Built type-safe React & AWS Amplify rental platform">
+    <img src="https://skillicons.dev/icons?i=typescript" height="50"/>
   </span>
 </p>
 
