@@ -47,22 +47,15 @@ I’m a **Full-Stack Software Engineer** with experience at **Oracle**, **Heartl
 
 ### 💻 Languages  
 <p align="center">
-  <span style="padding:10px; display:inline-block; transition:transform 0.2s; border-radius:12px;" title="Java – Built REST APIs and microservices at Oracle">
-    <img src="https://skillicons.dev/icons?i=java" height="50"/>
-  </span>
-  <span style="padding:10px; display:inline-block; transition:transform 0.2s; border-radius:12px;" title="Python – Used for ML/NLP projects like Reddit relevance analysis">
-    <img src="https://skillicons.dev/icons?i=python" height="50"/>
-  </span>
-  <span style="padding:10px; display:inline-block; transition:transform 0.2s; border-radius:12px;" title="C++ – Strong foundation in algorithms and system-level programming">
-    <img src="https://skillicons.dev/icons?i=cpp" height="50"/>
-  </span>
-  <span style="padding:10px; display:inline-block; transition:transform 0.2s; border-radius:12px;" title="JavaScript – Core for React, Angular, and full-stack apps">
-    <img src="https://skillicons.dev/icons?i=js" height="50"/>
-  </span>
-  <span style="padding:10px; display:inline-block; transition:transform 0.2s; border-radius:12px;" title="TypeScript – Built type-safe React & AWS Amplify rental platform">
-    <img src="https://skillicons.dev/icons?i=typescript" height="50"/>
-  </span>
-</p>
+  <img src="https://skillicons.dev/icons?i=java" title="Java – Built REST APIs and microservices at Oracle" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python – Used for ML/NLP projects like Reddit relevance analysis" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++ – Strong foundation in algorithms and system-level programming" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript – Core for React, Angular, and full-stack apps" />
+  <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript – Built type-safe React & AWS Amplify rental platform" />
+  <img src="https://skillicons.dev/icons?i=swift" title="Swift – Experience with mobile app prototyping" />
+  <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin – Worked on Android development projects" />
+  <img src="https://skillicons.dev/icons?i=graphql" title="GraphQL – Familiar with API queries in academic projects" />
+</p> 
 
 
 ### 🖼️ Frameworks & Libraries  
