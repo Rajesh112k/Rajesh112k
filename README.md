@@ -1,3 +1,24 @@
+<style>
+.skill-icon {
+  display: inline-block;
+  margin: 8px;
+  transition: transform 0.3s, background-color 0.3s;
+  padding: 10px;
+  border-radius: 12px;
+}
+
+.skill-icon:hover {
+  transform: scale(1.2);
+  background-color: #f0f0f0;
+}
+
+.skill-icon img {
+  height: 48px;
+  width: 48px;
+}
+</style>
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0061ff,100:60efff&height=200&section=header&text=Hi%20I'm%20Rajesh%20Kumar%20Reddy%20Avula%20👋&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
@@ -47,15 +68,22 @@ I’m a **Full-Stack Software Engineer** with experience at **Oracle**, **Heartl
 
 ### 💻 Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java" title="Java – Built REST APIs and microservices at Oracle" />
-  <img src="https://skillicons.dev/icons?i=python" title="Python – Used for ML/NLP projects like Reddit relevance analysis" />
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++ – Strong foundation in algorithms and system-level programming" />
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript – Core for React, Angular, and full-stack apps" />
-  <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript – Built type-safe React & AWS Amplify rental platform" />
-  <img src="https://skillicons.dev/icons?i=swift" title="Swift – Experience with mobile app prototyping" />
-  <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin – Worked on Android development projects" />
-  <img src="https://skillicons.dev/icons?i=graphql" title="GraphQL – Familiar with API queries in academic projects" />
-</p>  
+  <span class="skill-icon" title="Java – Built REST APIs and microservices at Oracle">
+    <img src="https://skillicons.dev/icons?i=java"/>
+  </span>
+  <span class="skill-icon" title="Python – Used for ML/NLP projects like Reddit relevance analysis">
+    <img src="https://skillicons.dev/icons?i=python"/>
+  </span>
+  <span class="skill-icon" title="C++ – Strong foundation in algorithms and system-level programming">
+    <img src="https://skillicons.dev/icons?i=cpp"/>
+  </span>
+  <span class="skill-icon" title="JavaScript – Core for React, Angular, and full-stack apps">
+    <img src="https://skillicons.dev/icons?i=js"/>
+  </span>
+  <span class="skill-icon" title="TypeScript – Built type-safe React & AWS Amplify rental platform">
+    <img src="https://skillicons.dev/icons?i=typescript"/>
+  </span>
+</p> 
 
 ### 🖼️ Frameworks & Libraries  
 <p align="center">
