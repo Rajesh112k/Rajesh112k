@@ -76,7 +76,7 @@ I’m a **Full-Stack Software Engineer** with experience at **Oracle**, **Heartl
   <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB – Used in MERN stack and microservices projects" />
   <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL – Used for academic and data projects" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL – Designed relational schemas in early projects" />
-  <img src="https://skillicons.dev/icons?i=oracle" title="Oracle DB – Wrote 150+ stored procedures at Oracle" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" title="Oracle DB – Wrote 150+ stored procedures at Oracle" />
   <img src="https://skillicons.dev/icons?i=aws" title="AWS – Deployed apps with Amplify, EC2, S3" />
   <img src="https://skillicons.dev/icons?i=gcp" title="GCP – Used for cloud-hosted ML pipelines" />
   <img src="https://skillicons.dev/icons?i=docker" title="Docker – Containerized full-stack applications" />
@@ -87,7 +87,8 @@ I’m a **Full-Stack Software Engineer** with experience at **Oracle**, **Heartl
   <img src="https://skillicons.dev/icons?i=git" title="Git – Daily use for version control & collaboration" />
   <img src="https://skillicons.dev/icons?i=github" title="GitHub – Open-source contributions (HGN, MERN apps)" />
   <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab – CI/CD pipelines and repo management" />
-  <img src="https://skillicons.dev/icons?i=jira" title="JIRA – Agile workflow management" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" title="JIRA – Agile workflow management" />
+
   <img src="https://skillicons.dev/icons?i=postman" title="Postman – API testing & documentation" />
   <img src="https://skillicons.dev/icons?i=netlify" title="Netlify – Deployment of frontend projects" />
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code – Primary IDE for development" />
