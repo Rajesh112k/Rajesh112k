@@ -47,22 +47,37 @@ I’m a **Full-Stack Software Engineer** with experience at **Oracle**, **Heartl
 
 ### 💻 Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,typescript,swift,kotlin,graphql" />
+  <a href="https://github.com/Rajesh112k?tab=repositories&q=java"><img src="https://skillicons.dev/icons?i=java" /></a>
+  <a href="https://github.com/Rajesh112k?tab=repositories&q=python"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <a href="https://github.com/Rajesh112k?tab=repositories&q=cpp"><img src="https://skillicons.dev/icons?i=cpp" /></a>
+  <a href="https://github.com/Rajesh112k?tab=repositories&q=javascript"><img src="https://skillicons.dev/icons?i=javascript" /></a>
+  <a href="https://github.com/Rajesh112k?tab=repositories&q=typescript"><img src="https://skillicons.dev/icons?i=typescript" /></a>
 </p>  
 
 ### 🖼️ Frameworks & Libraries  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,redux,spring,nodejs,vue,materialui,bootstrap" />
+  <a href="https://github.com/Rajesh112k?tab=repositories&q=react"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://github.com/Rajesh112k?tab=repositories&q=angular"><img src="https://skillicons.dev/icons?i=angular" /></a>
+  <a href="https://github.com/Rajesh112k?tab=repositories&q=node"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://github.com/Rajesh112k?tab=repositories&q=spring"><img src="https://skillicons.dev/icons?i=spring" /></a>
+  <a href="https://github.com/Rajesh112k?tab=repositories&q=redux"><img src="https://skillicons.dev/icons?i=redux" /></a>
 </p>  
 
 ### 🗄️ Databases & Cloud  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,oracle,aws,gcp,docker" />
+  <a href="https://github.com/Rajesh112k?tab=repositories&q=mongodb"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+  <a href="https://github.com/Rajesh112k?tab=repositories&q=postgresql"><img src="https://skillicons.dev/icons?i=postgresql" /></a>
+  <a href="https://github.com/Rajesh112k?tab=repositories&q=oracle"><img src="https://skillicons.dev/icons?i=oracle" /></a>
+  <a href="https://github.com/Rajesh112k?tab=repositories&q=aws"><img src="https://skillicons.dev/icons?i=aws" /></a>
+  <a href="https://github.com/Rajesh112k?tab=repositories&q=docker"><img src="https://skillicons.dev/icons?i=docker" /></a>
 </p>  
 
 ### 🛠️ Tools & Platforms  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jira,postman,netlify,vscode" />
+  <a href="https://github.com/Rajesh112k?tab=repositories&q=git"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://github.com/Rajesh112k?tab=repositories&q=jira"><img src="https://skillicons.dev/icons?i=jira" /></a>
+  <a href="https://github.com/Rajesh112k?tab=repositories&q=postman"><img src="https://skillicons.dev/icons?i=postman" /></a>
+  <a href="https://github.com/Rajesh112k?tab=repositories&q=vscode"><img src="https://skillicons.dev/icons?i=vscode" /></a>
 </p>  
 
 ---
