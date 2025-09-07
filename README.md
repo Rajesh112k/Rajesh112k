@@ -1,24 +1,3 @@
-<style>
-.skill-icon {
-  display: inline-block;
-  margin: 8px;
-  transition: transform 0.3s, background-color 0.3s;
-  padding: 10px;
-  border-radius: 12px;
-}
-
-.skill-icon:hover {
-  transform: scale(1.2);
-  background-color: #f0f0f0;
-}
-
-.skill-icon img {
-  height: 48px;
-  width: 48px;
-}
-</style>
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0061ff,100:60efff&height=200&section=header&text=Hi%20I'm%20Rajesh%20Kumar%20Reddy%20Avula%20👋&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
@@ -66,6 +45,26 @@ I’m a **Full-Stack Software Engineer** with experience at **Oracle**, **Heartl
 
 ## ⚡ Tech Stack  
 
+<style>
+.skill-icon {
+  display: inline-block;
+  margin: 8px;
+  transition: transform 0.3s, background-color 0.3s;
+  padding: 10px;
+  border-radius: 12px;
+}
+
+.skill-icon:hover {
+  transform: scale(1.2);
+  background-color: #f0f0f0;
+}
+
+.skill-icon img {
+  height: 48px;
+  width: 48px;
+}
+</style>
+
 ### 💻 Languages  
 <p align="center">
   <span class="skill-icon" title="Java – Built REST APIs and microservices at Oracle">
@@ -83,7 +82,8 @@ I’m a **Full-Stack Software Engineer** with experience at **Oracle**, **Heartl
   <span class="skill-icon" title="TypeScript – Built type-safe React & AWS Amplify rental platform">
     <img src="https://skillicons.dev/icons?i=typescript"/>
   </span>
-</p> 
+</p>
+
 
 ### 🖼️ Frameworks & Libraries  
 <p align="center">
